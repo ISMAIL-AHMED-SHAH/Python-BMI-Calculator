@@ -81,7 +81,16 @@ st.sidebar.warning("Consult your doctor for personalized advice 👨‍⚕️")
 # Add a 'Contact Us' section
 st.sidebar.markdown("---")
 st.sidebar.markdown("### 📬 Contact")
-st.sidebar.write("Have questions? [Email Us](mailto:info@example.com)")
+
+# Email Link
+st.sidebar.write("📧 [Email Us](mailto:ismailahmedshahpk@gmail.com)")
+
+# LinkedIn Link
+st.sidebar.write("🔗 [Connect on LinkedIn](https://www.linkedin.com/in/ismail-ahmed-shah-2455b01ba/)")
+
+# WhatsApp Link
+st.sidebar.write("💬 [Chat on WhatsApp](https://wa.me/923322241405)")
+
 
 # Optional user input from sidebar
 st.sidebar.markdown("---")
